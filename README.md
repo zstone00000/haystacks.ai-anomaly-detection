@@ -14,7 +14,7 @@ Some highlights of the project:
 
 A formal writeup can be found at https://nycdatascience.com/blog/student-works/detecting-anomalies-in-a-statewide-housing-market-with-alternative-data/
 
-This repo contains all the files used in the project, except for webscrapers (both those written by our team and haystacks.ai), the notebook creating the dataset, the raw data files, and initial EDA, as these used or generated information which is proprietary to haystacks.ai. 
+This repo contains all the files used in the project, except for webscrapers (both those written by our team and haystacks.ai), raw data files, initial EDA, and other notebooks using or generating information which is proprietary to haystacks.ai. 
 
 Summary of scripts:
 - pca_analyzer contains code for the PcaAnalyzer class which was used to create and analyze principal components
