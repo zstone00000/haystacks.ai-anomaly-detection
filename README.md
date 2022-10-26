@@ -1,7 +1,7 @@
 # haystacks.ai-anomaly-detection
 Anomaly detection project with haystacks.ai
 
-Project developed by Zach Stone and Dmitriy Popov-Velasco together with haystacks.ai
+Project developed by Zach Stone and Dmitriy Popov-Velasco in collaboration with haystacks.ai
 
 Some highlights of the project:
 
