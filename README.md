@@ -12,7 +12,7 @@ Some highlights of the project:
 * To address these issues, a localized agglomerative clustering technique was developed.  The key idea was to break up the dataset into overlapping 'rectangular' geographic regions by lat/long, run the agglomerative clustering on the principal components, and combine clusters containing a house in common until clusters are disjoint.  This technique allows clusters with larger intra-cluster variance than the global agglomerative clustering model, while still isolating the same number of listings.  It was able to detect anomalies statewide and is less swayed by outliers.
 *The localized agglomerative clustering technique allowed us to detect anomalies that are over $100K cheaper than houses in nearby clusters.  The global anomaly detection methods focused on statewide outliers, concentrating on properties that are likely to be of little interest to investors in single-family rental properties.
 
-A complete writeup can be found at https://nycdatascience.com/blog/student-works/detecting-anomalies-in-a-statewide-housing-market-with-alternative-data/
+A formal writeup can be found at https://nycdatascience.com/blog/student-works/detecting-anomalies-in-a-statewide-housing-market-with-alternative-data/
 
 This repo contains all the files used in the project, except for webscrapers (both those written by our team and haystacks.ai), the notebook creating the dataset, the raw data files, and initial EDA, as these used or generated information which is proprietary to haystacks.ai. 
 
