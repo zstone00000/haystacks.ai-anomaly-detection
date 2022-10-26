@@ -26,6 +26,7 @@ Summary of scripts:
 - GAboundary.txt contains the coordinates plotting the shape of GA, used regularly in visualization, and for filtering data by location
 
 Summary of notebooks:
+- 01 feature_merge_and_creation contains code for merging data and creating the complete dataset
 - 02 impute_and_PCA contains code for imputing, scaling, and PCAing the raw features, analyzing the PCs and their loadings, and visualizing the dataset both geographically and in feature space. Also includes basic application of k-means clustering for EDA purposes.
 - 03 AC Local is the main notebook where (global/local w/ and w/o LL) AC and isolation forests are run. Includes visualizations as well.
 - 03 GMM Local includes some tests with GMMs
